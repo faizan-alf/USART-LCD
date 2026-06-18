@@ -131,7 +131,7 @@ void main(void) {
 - **Transmission and reception**: Enabled
 
 ## 🖼️ Schematic
-![Schematic](usat-lcd.png)
+![image alt](https://github.com/faizan-alf/USART-LCD/blob/5f9f2d58c639f23d0d5925f5db26ac519368f823/usat-lcd.png)
 
 ## ⚠️ Limitations
 - Blocking receive — no interrupt used.
